@@ -1,2 +1,15 @@
 # Automate_EDA
 Automate The EDA(Exploratory Data Analysis) Preparation process for Classification and Regression
+
+Description:
+I uploaded this project to GitHub to showcase my skills to potential employers, collaborators pr clients. GitHub is an excellent place to host and share code, where we can showcase programming skills, collaboration abilities, and project management skills. This can help me gain credibility and demonstrate my skills to a wider audience, making it easier for me to load opportunities in the AI field of expertise.
+
+Problem Statement:
+EDA Exploratory data analysis is the process of analyzing and summarizing datasets to extract meaningful insights and identify patterns, relationships, and anomalies. EDA is a critical step in data science and is usually performed on raw data to understand its underlying characteristics, such as distributions, correlations, missing data, outliers, and other data quality issues.
+EDA involves using various statistical and visualization techniques to gain a better understanding of data, identify potential issues or operations, and generate hypotheses that can be tested in later stages of the data science workflow.
+EDA is an iterative process that involves referring to the data, refining the analysis, and revisiting the research questions to ensure that the insights generated are relevant and actionable.
+
+Building an automated EDA tool is a powerful way to streamline the data exploration process. One key feature of such a tool would be to detect null or missing values in the dataset, which can impact the accuracy of subsequent analyses. This can be accomplished by analyzing each column and counting the number of missing values or by visualizing the missing values using heat maps or bar graphs. Another useful feature is to detect and remove duplicate values in the dataset, which can skew results and waste computational resources.
+Outliers can also have a significant impact on data analysis, and an automated EDA tool can detect and visualize outliers using scatter plots, box plots, or histograms. Descriptive statistics such as mean, median, and standard deviation can also be computed for each column, providing a quick summary of the data’s central tendencies and variability.
+Dataset information, such as the shape of the dataset and the number of rows and columns, can be displayed to give users an overview of the dataset size and complexity. Additionally, unique values for each column can be displayed, which is especially helpful for identifying categorical data or for identifying patterns in the data. If the dataset contains text data.
+To help users quickly understand the nature of the data, an automated EDA tool can also provide visualization of the dataset. This allows users to explore the data and identify any trends or patterns before moving on to more advanced analyses. Overall, an automated EDA tool can greatly simplify the data exploration process and provide users with insights that may otherwise go unnoticed.
